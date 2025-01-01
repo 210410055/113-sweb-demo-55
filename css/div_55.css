@@ -1,4 +1,4 @@
-/* .div_container_00 {
+.div_container_00 {
   max-width: 1000px;
   min-width: 400px;
   background-color: #fff;
@@ -15,9 +15,9 @@
   text-transform: uppercase;
   font-weight: 600;
   font-size: 0.8rem;
-} */
+}
 
-/* .div_container_00 .logo {
+.div_container_00 .logo {
   background-color: #eababa;
   grid-area: logo;
 }
@@ -42,9 +42,9 @@
 .div_container_00 aside {
   background-color: rgb(232, 235, 72);
   grid-area: aside;
-} */
+}
 
-/* .div_container_00 section {
+.div_container_00 section {
   width: 90%;
   height: 90%;
   display: flex;
@@ -81,16 +81,16 @@
   width: 15%;
   margin: 10px;
   cursor: pointer;
-} */
+}
 
-/* .div_container_00 .picContainer .small_pic img {
+.div_container_00 .picContainer .small_pic img {
   width: 100%;
 }
 
 .div_container_00 footer {
   background-color: rgb(187, 127, 127);
   grid-area: footer;
-} */
+}
 
 @media screen and (max-width: 550px) {
   .div_container_00 {
